@@ -1,0 +1,37 @@
+Obs: Todas as sentenças foram testadas em Inglês (US).
+
+1ª Sentença -> 
+
+(EN-US)
+Tired hotel with poor service
+The Royal Hotel, London, United Kingdom
+5/6/2018
+This is an old hotel (has been around since 1950's) and the room furnishings are average - becoming a bit old now and require changing. The internet didn't work and had to come to one of their office rooms to check in for my flight home. The website says it's close to the British Museum, but it's too far to walk.
+
+(PT-BR)
+Hotel cansado com mau serviço
+The Royal Hotel, Londres, Reino Unido
+06/05/2018
+Este é um hotel antigo (existe desde 1950) e os móveis dos quartos são medianos - tornando-se um pouco antigos agora e precisam ser alterados. A internet não funcionou e tive que ir a uma de suas salas de escritório para fazer o check-in do meu voo para casa. O site diz que fica perto do Museu Britânico, mas é muito longe para caminhar.
+
+
+2ª Sentença ->
+
+(EN-US)
+Unforgettable experience at the beach resort
+Had the most amazing time at the beach resort in Bali, Indonesia. The staff was incredibly friendly and attentive, making our stay truly memorable. The room was spacious, clean, and offered a breathtaking view of the ocean. The resort's amenities were top-notch, and the food at the on-site restaurant was delectable. We enjoyed relaxing by the pool and taking part in the water sports activities offered. Definitely a place we'd love to visit again in the future!
+
+(PT-BR)
+Experiência inesquecível no resort de praia
+Passamos momentos incríveis no resort de praia em Bali, na Indonésia. A equipe foi extremamente simpática e atenciosa, tornando a nossa estadia verdadeiramente memorável. O quarto era espaçoso, limpo e oferecia uma vista deslumbrante do oceano. As comodidades do resort eram de primeira qualidade e a comida no restaurante do local era deliciosa. Gostamos de relaxar na piscina e participar das atividades de esportes aquáticos oferecidas. Definitivamente um lugar que adoraríamos visitar novamente no futuro!
+
+
+3ª Sentença -> 
+
+(EN-US)
+Hidden gem in the heart of Tuscany
+Discovered a hidden gem in the picturesque countryside of Tuscany, Italy. However, while the charming town offered a delightful escape, some of the local restaurants struggled to maintain the high standard of Italian cuisine we expected. This charming little town is a paradise for lovers of art, history, and authentic Italian cuisine. The cobblestone streets lined with quaint cafes and artisan shops exude a timeless charm. The local vineyards offer delightful wine tastings, and the rolling hills provide breathtaking views at every turn. A perfect destination for those seeking a peaceful retreat immersed in the beauty of Tuscany's landscapes and rich cultural heritage.
+
+(PT-BR)
+Jóia escondida no coração da Toscana
+Descobri uma joia escondida na pitoresca zona rural da Toscana, Itália. No entanto, embora a encantadora cidade oferecesse um refúgio agradável, alguns dos restaurantes locais lutaram para manter o alto padrão da culinária italiana que esperávamos. Esta encantadora cidadezinha é um paraíso para os amantes da arte, da história e da autêntica culinária italiana. As ruas de paralelepípedos repletas de cafés pitorescos e lojas de artesanato exalam um charme atemporal. Os vinhedos locais oferecem deliciosas degustações de vinhos e as colinas oferecem vistas deslumbrantes a cada passo. Um destino perfeito para quem procura um retiro tranquilo imerso na beleza das paisagens da Toscana e na rica herança cultural.
