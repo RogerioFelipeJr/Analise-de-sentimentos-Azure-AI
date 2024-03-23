@@ -16,7 +16,7 @@ Olá seja muito bem vindo! Neste laboratório aprendemos a usar a Inteligência 
 
 5. Por fim, conhecemos o Language Studio (Estudio de fala) que foi usado para realizarmos este laboratório.
 
-Não deixe de acompanhar o avanço surpreendente das IA's e nunca fique para trás na tecnologia. Desenvolva suas idéias inovadoras e se junte a esssa comunidade que só tende a crescer! Por um futuro mais tecnológico. 
+Não deixe de acompanhar o avanço surpreendente das IA's e nunca fique para trás na tecnologia. Desenvolva suas idéias inovadoras e se junte a esssa comunidade que só tende a crescer! Por um futuro mais tecnológico. 🚀 🚀 🚀
 
 ## 📲 Conete-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/juninho_snowpb)
